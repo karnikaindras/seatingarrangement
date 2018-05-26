@@ -13,6 +13,7 @@ public class Category {
 	
 	List<List<Seat>> seatingArrangement;
 	
+	
 	public CategoryName getCategoryName() {
 		return categoryName;
 	}
